@@ -14,9 +14,9 @@ This project enables real-time transcription of YouTube videos using your system
 This project requires Python 3.12 and the following dependencies:
 
 ```txt
-faster-whisper>=1.0.0
-sounddevice>=0.4.6
-numpy>=1.24.0
+faster-whisper>=1.2.1
+sounddevice>=0.5.3
+numpy>=2.4.1
 ```
 
 Install with:
